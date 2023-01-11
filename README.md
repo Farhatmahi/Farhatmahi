@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhatmahi&label=Profile%20views&color=0e75b6&style=flat" alt="farhatmahi" /> </p>
 
-- 🔭 I’m currently working on **chat application**
+- 🔭 I’m currently working on a **chat application**
 
 - 🌱 I’m currently learning **Next.js,Redux and TypeScript**
 
@@ -12,11 +12,11 @@
 
 - 💬 Ask me about **React.js, Express.js, Mongoose, HTML5 , CSS3, TailwindCSS, JavaScript**
 
-- 📫 How to reach me **mahifarhat2@gmail.com**
+- 📫 Email me at **mahifarhat2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19aSi8BuZdB40ktPhZV6v-tWMxxA-xJNF/view?usp=share_link](https://drive.google.com/file/d/19aSi8BuZdB40ktPhZV6v-tWMxxA-xJNF/view?usp=share_link)
+- 📄 To know about my experiences : [https://drive.google.com/file/d/19aSi8BuZdB40ktPhZV6v-tWMxxA-xJNF/view?usp=share_link](https://drive.google.com/file/d/19aSi8BuZdB40ktPhZV6v-tWMxxA-xJNF/view?usp=share_link)
 
-- ⚡ Fun fact **I hate university studies, I love to learn tech from docs.**
+- ⚡ Fun fact **I hate studies, I love to learn tech from docs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
