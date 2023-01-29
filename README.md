@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhatmahi&label=Profile%20views&color=0e75b6&style=flat" alt="farhatmahi" /> </p>
 
-- 🔭 I’m currently working on a **chat application**
+- 🔭 I’m currently working in Cehpoint E-learning and Cyber Security Solutions
 
 - 🌱 I’m currently learning **Next.js,Redux and TypeScript**
 
