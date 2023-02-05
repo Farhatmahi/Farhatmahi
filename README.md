@@ -6,17 +6,16 @@
 
 - 🔭 I’m currently working in Cehpoint E-learning and Cyber Security Solutions
 
-- 🌱 I’m currently learning **Next.js,Redux and TypeScript**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://farhatomar.netlify.app/](https://farhatomar.netlify.app/)
 
-- 💬 Ask me about **React.js, Express.js, Mongoose, HTML5 , CSS3, TailwindCSS, JavaScript**
+- 💬 Ask me about **React.js, Express.js, Node.js, MongoDB, Mongoose, HTML5 , CSS3, TailwindCSS, JavaScript, Next.js**
 
 - 📫 Email me at **mahifarhat2@gmail.com**
+<!-- 
+- 📄 To know about my experiences : [https://drive.google.com/file/d/19aSi8BuZdB40ktPhZV6v-tWMxxA-xJNF/view?usp=share_link](https://drive.google.com/file/d/19aSi8BuZdB40ktPhZV6v-tWMxxA-xJNF/view?usp=share_link) -->
 
-- 📄 To know about my experiences : [https://drive.google.com/file/d/19aSi8BuZdB40ktPhZV6v-tWMxxA-xJNF/view?usp=share_link](https://drive.google.com/file/d/19aSi8BuZdB40ktPhZV6v-tWMxxA-xJNF/view?usp=share_link)
-
-- ⚡ Fun fact **I hate studies, I love to learn tech from docs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
