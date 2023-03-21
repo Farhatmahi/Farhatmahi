@@ -6,11 +6,7 @@
 
 - 🔭 I’m currently working in Cehpoint E-learning and Cyber Security Solutions
 
-- 🌱 I’m currently learning **Flutter**
-
 - 👨‍💻 All of my projects are available at [https://farhatomar.netlify.app/](https://farhatomar.netlify.app/)
-
-- 💬 Ask me about **React.js, Express.js, Node.js, MongoDB, Mongoose, HTML5 , CSS3, TailwindCSS, JavaScript, Next.js**
 
 - 📫 Email me at **mahifarhat2@gmail.com**
 <!-- 
